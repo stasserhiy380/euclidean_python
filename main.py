@@ -24,6 +24,7 @@ def euclidean(a:int,b:int):
 a = 240
 b = 46
 
+
 tmp = euclidean(a,b)
 print(tmp[1][len(tmp[1])-1])
 print(tmp[2][len(tmp[2])-1])
